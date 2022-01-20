@@ -1,9 +1,10 @@
 {
-    "name": "Here Comes The Sun",
+    "name": "here-comes-the-sun",
     "version": "0.0.1",
-    "title": "MOAR SUN",
+    "title": "Here Comes The Sun",
     "author": "avcables",
-    "factorio_version": " 1.1",
-    "dependencies": ["base >= 1.1.0"],
-    "description": "Solar as an energy is too basic, bitch. MOAR PANELS. MOAR SUN. MORE JUICE."
+    "dependencies": ["base >= 1.1.5"],
+    "factorio_version": "1.1",
+    "description": "Solar as an energy is too basic, bitch. MOAR PANELS. MOAR SUN. MORE JUICE.",
+    "homepage": "https://avcabl.es"
 }
